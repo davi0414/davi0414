@@ -1,10 +1,10 @@
-- 👋 ol menome e davi0414
-- 👀 esou aprededo amece no cocutado
-- 🌱 etu tetedo colabora coas mias alus de ifomatica
-- 💞️ teumita deficuda emee no coputado
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 ol meu nome e davi0414
+- 👀 estou aprendendo a mexer no computador
+- 🌱 eu tento colaborar com as minhaas aulas de infomatica
+- 💞️ tenho dificuldade em informatica
+- 📫 sou um menino quieto
+- 😄 ele eles
+- ⚡ sou um telespectador
 
 <!---
 davi0414/davi0414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
